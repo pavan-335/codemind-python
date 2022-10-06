@@ -1,3 +1,2 @@
 a=int(input())
-n=3.14*a**2
-print(n)
+print('%.2f'%(3.14*a**2))
